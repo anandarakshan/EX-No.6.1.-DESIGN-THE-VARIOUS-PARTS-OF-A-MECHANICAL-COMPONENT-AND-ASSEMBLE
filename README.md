@@ -1,6 +1,6 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
+## DATE:14-12-2023
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -63,6 +63,20 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+#### LINKAGE:
+![Linkage-6 1_page-0001](https://github.com/anandarakshan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139217934/60cccf67-dcfe-4cbe-b1c7-ce3d72c32286)
+
+#### BASE PLATE:
+![Base Plate-6 1_page-0001](https://github.com/anandarakshan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139217934/faba9f4a-74ec-4b38-8ea4-ec02e54925d9)
+
+#### GEAR LINKAGE:
+![Gear Linkage-6 1_page-0001](https://github.com/anandarakshan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139217934/32ec728c-8b54-443d-9f3a-1e9b647aab4e)
+
+#### FINGER:
+![Finger-6 1_page-0001](https://github.com/anandarakshan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139217934/3f1aa1b9-1c64-4a83-a598-e391309e644a)
+
+#### ASSEMBLED VIEW:
+![EX-6 1_page-0001](https://github.com/anandarakshan/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139217934/29711d25-a170-4dbc-b064-86d6fa50a26a)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
